@@ -13,11 +13,11 @@ A basic Discord bot made using Python. Feel free to download the code, add your 
 <h2>How to use</h2>
 
 ### Setup
- - Run <span style="background-color:#232734; padding:1px 3px; border-radius:3px;">install.bat</span>
- - Open <span style="background-color:#232734; padding:1px 3px; border-radius:3px;">config.json</span> and enter your bot's token
- - (Optional) You can also change the bot's prefix in the <span style="background-color:#232734; padding:1px 3px; border-radius:3px;">config.json</span> file
+ - Run ```install.bat```
+ - Open ```config.json``` and enter your bot's token
+ - (Optional) You can also change the bot's prefix in the ```config.json``` file
 ### Running the bot
- - Run <span style="background-color:#232734; padding:1px 3px; border-radius:3px;">start.bat</span> and your bot should be online!
+ - Run ```start.bat``` and your bot should be online!
 
 ## Discord
 Yasir#1585
